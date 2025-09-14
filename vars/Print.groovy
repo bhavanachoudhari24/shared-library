@@ -1,3 +1,3 @@
-def call(String name = '50') {
-    echo "May age is ${name} "
+def call(String age = '50') {
+    echo "My age is, ${age} till now "
 }
